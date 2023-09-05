@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>carreras profesionales</title>
+</head>
+<body>
+    <h2>Filosofia</h2>
+    <ul>
+        <li>estetica</li>
+        <li>politica</li>
+        <li>etica</li>
+        <li>metafisica</li>
+        <li>epistemologia</li></ul>
+        <h2>Medicina</h2>
+        <ul>
+            <li>urologia</li>
+            <li>ginecologia</li>
+            <li>traumatologia</li>
+            <li>ortodoncia</li>
+            <li>pediatria</li></ul>
+            <h2>Administracion de empresas</h2>
+            <ul>
+                <li>calculo</li>
+                <li>derecho</li>
+                <li>metodologia</li>
+                <li>administracion</li>
+                <li>economia</li></ul>
+                <h2>ingenieria quimica</h2>
+                <ul>
+                    <li>quimica organica</li>
+                    <li>quimica inorganica</li>
+                    <li>algebra</li>
+                    <li>calculo</li>
+                    <li>laboratorio</li></ul>
+
+                    <h2>Arquitectura</h2>
+                    <ul>
+                        <li>espacios interiores</li>
+                        <li>dibujo</li>
+                        <li>calculo</li>
+                        <li>fisica</li>
+                        <li>metodologia</li></ul>
+
+</body>
+</html>

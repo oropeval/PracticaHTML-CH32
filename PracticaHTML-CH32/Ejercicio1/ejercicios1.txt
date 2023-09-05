@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>MOST IMPORTANT HEADING TAG</h1>
+    <H2>VERY IMPORTANT HEADING TAG
+        <H3>IMPORTANT HEADING TAG</H3>
+        <H4>NEUTRAL HEADING TAG</H4>
+        <h5>LESS IMPORTANT HEADING TAG</h5>
+        <H6>LEAST IMPORTANT HEADING TAG</H6>
+    </H2>
+</body>
+</html>

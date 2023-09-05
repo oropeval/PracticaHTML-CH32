@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guns and roses</title>
+    <link rel="stylesheet" href="./assets/colors.css">
+</head>
+<body>
+    <style>
+        body {
+            background-color: beige;
+        }
+        h1, p , h2, li {
+            color: #1b7a74;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+    </style>
+     <!--etiqueta de titulo h1-->
+    <h1>GUNS AND ROSES</h1>
+    <img src="./assets/6481c0a50c601.webp" alt="Imagen de la banda">
+    <!--etiqueta de parrafo-->
+    <p>Guns N' Roses es una banda estadounidense de hard rock formada en Hollywood, Los Ángeles, en la zona de Sunset Strip, en 1985. El grupo musical fue fundado por el vocalista Axl Rose y el guitarrista Izzy Stradlin. Es una de las bandas de rock más exitosas de todos los tiempos, habiendo vendido más de cien millones de discos, es considerada ícono global de la música y forma parte del prestigioso Salón de la Fama del Rock and Roll.
+        La banda fue formada en marzo de 1985 por Axl Rose (voz, teclados), Tracii Guns (guitarra líder), Izzy Stradlin (guitarra rítmica, coros), Ole Beich (bajo) y Rob Gardner (batería). Los cinco miembros originales eran de dos grupos diferentes, L.A. Guns (que más tarde fue reformado) y Hollywood Rose. Posteriormente, los miembros decidieron combinar los nombres de los dos grupos antes mencionados y así surgió el nombre Guns N' Roses. Los de Hollywood Rose eran Axl Rose (voz) e Izzy Stradlin (guitarra rítmica), mientras que de L.A. Guns llegaron Tracii Guns (guitarra solista), Ole Beich (bajo) y Rob Gardner (batería).
+        El 14 de abril de 2012 en Cleveland, se llevó a cabo la edición 2012 del Salón de la Fama del Rock, donde Guns N' Roses fue inducido, junto a otras bandas como los Red Hot Chilli Peppers, los Beastie Boys, entre otros.​ A la ceremonia acudieron los miembros de la formación clásica del grupo (con la excepción de Axl Rose, Dizzy Reed e Izzy Stradlin): Slash, Duff McKagan, Gilby Clarke, Steven Adler y Matt Sorum. Días antes, Rose dejó en claro en una carta que rechazaba la inducción de la banda, que las cosas con los exmiembros no han cambiado y que no asistiría a la ceremonia, acabando así con las esperanzas de muchos fanáticos de un reencuentro. Finalmente, los ex Guns N' Roses tocaron algunos de los clásicos de Appetite for Destruction («Mr. Brownstone», «Sweet Child o' Mine» y «Paradise City») junto a Myles Kennedy como cantante invitado.
+    </p><br>
+    <h2>ALBUMES FAVORITOS</h2>
+    <ol>
+        <li>Appetite for Destruction</li><ul>
+            <li>nightrain</li>
+            <li>think about you</li>
+            <li>my michelle</li>
+        </ul>
+        <li>G N R lies</li><ul>
+            <li>nice boys</li>
+            <li>one in a million</li>
+            <li>you are crazy</li>
+        </ul>
+        <li> your illusion</li><ul>
+            <li>dust n bones</li>
+            <li>dont cry</li>
+            <li>the garden</li>
+        </ul>
+        
+    </ol>
+    <!--no tengo cuenta de spotify ni de apple music entonces pongo una de youtube : -->
+  <h2><a href='url'>"https://www.youtube.com/channel/UCIak6JLVOjqhStxrL1Lcytw" </a></h2>
+    
+</body>
+</html>
